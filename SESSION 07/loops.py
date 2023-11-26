@@ -55,6 +55,30 @@ print('loop finish')
 
 
 
+user_number = int(input("Enter a number to check "))
+if user_number < 2:
+    prime_no = False
+elif user_number == 2:
+    prime_no = True
+else:
+    prime_no = True
+    for i in range(2, int(user_number**0.5) + 1):
+        if user_number % i == 0:
+            prime_no = False
+            break
+if prime_no:
+    print(f"{user_number} is a prime number")
+else:
+    print(f"{user_number} is not a prime number")
+
+
+
+
+
+
+
+
+
 
 
 
