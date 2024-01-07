@@ -1,0 +1,31 @@
+manageement system-> crud
+create -> insert
+read -> view , rertieve
+delete -> delete
+uupdate -> uupdate , overide
+
+
+function,list,dictionary,loop,conditional statement
+
+Sms
+global varibale -> dictionary
+create -> function(parameter) -> data insert 
+read -> function(parameter) ->conditional statement -> id -> show data
+update -> function(parameter) -> id -> conditional statement -> show data -> overide,update,replace
+delete -> function(parameter ) -> id -> conditional statement -> delete 
+function call procedure
+loop -> conditional statement -> descions (what fuynction do we need to call ) -> else: break
+
+
+
+
+
+
+
+
+
+
+
+
+
+
